@@ -5,7 +5,6 @@
 - **Course**: CS 3A (Computer Science 3A)
 - **Semester**: 2025-2026
 - **Authors**: Macalalag, Bedis, Ledesma
-- **Repository**: [GitHub](https://github.com/rjledesma/sentiment-analysis-final-cnn)
 
 ## Overview
 
@@ -27,10 +26,7 @@ This project implements a Convolutional Neural Network (CNN) for sentiment analy
 
 ### Setup
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/rjledesma/sentiment-analysis-final-cnn.git
-   cd sentiment-analysis-final-cnn
-   ```
+   this repo
 
 2. Install dependencies:
    ```bash
@@ -73,7 +69,7 @@ Enter a review to get sentiment analysis results.
 
 ## Project Files Access
 
-For quick access to the pretrained model and key files, download the project archive from: [Google Drive Link](https://drive.google.com/drive/folders/1LXOD-T-ZwPWJZKWld6ErO0_3sUoaDdT1?usp=sharing) (replace with your actual link).
+For quick access to the pretrained model and key files, download the project archive from: [Google Drive Link](https://drive.google.com/drive/folders/1LXOD-T-ZwPWJZKWld6ErO0_3sUoaDdT1?usp=sharing) 
 
 The archive includes:
 - `sentiment_model.h5` (pretrained CNN model)
