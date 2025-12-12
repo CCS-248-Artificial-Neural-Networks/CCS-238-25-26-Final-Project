@@ -71,6 +71,19 @@ Enter a review to get sentiment analysis results.
 - Test Accuracy: ~85-90%
 - Includes precision, recall, and F1-score
 
+## Project Files Access
+
+For quick access to the pretrained model and key files, download the project archive from: [Google Drive Link](https://drive.google.com/drive/folders/1LXOD-T-ZwPWJZKWld6ErO0_3sUoaDdT1?usp=sharing) (replace with your actual link).
+
+The archive includes:
+- `sentiment_model.h5` (pretrained CNN model)
+- `sentiment-analyser.py` (prediction script)
+- `sentiment-analysis.ipynb` (training notebook)
+- `app.py` (additional code)
+- `requirements.txt` (dependencies)
+- `README.md` (this documentation)
+- `IMDB_Dataset.csv` (dataset)
+
 ## License
 
 MIT License - see [LICENSE](LICENSE)
